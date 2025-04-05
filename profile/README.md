@@ -15,6 +15,13 @@ Onclick Cooperative is built on the simple premise that when we don't have to pa
 - 🤝 **Direct Partnership** - Work directly with the people building your project
 - 📈 **Collective Growth** - Our success is shared among all worker-owners
 
+## 🧰 Our Expertise
+
+- **E-commerce Specialists** - Particularly Shopify development
+- **Web Accessibility Experts** - Making the web work for everyone
+- **Custom Web Applications** - From concept to deployment
+- **Full Stack Development** - End-to-end solutions
+
 ## 👩‍💻 Our Tech Stack
 
 We build modern web applications using a carefully selected stack:
@@ -32,18 +39,34 @@ We're not just employees -- we're owners committed to building something meaning
 - **G. Luke Mendelman-Haenn** - Full Stack Developer & Co-Founder
 - **Diego Hernandez** - Full Stack Developer, Accessibility Expert & Co-Founder
 
-## 🚀 Getting Started
+## 💭 Why Choose a Cooperative?
 
-Ready to start a project with us? Here's how to reach out:
+When developers own their work, they care more about quality, timeline, and your satisfaction:
 
-- 📧 **Email**: [hello@onclickcoop.dev](mailto:hello@onclickcoop.dev)
+- **Direct Accountability** - No account managers or middlemen
+- **Fair Pricing** - Your investment goes directly to the workers
+- **Quality Commitment** - Owner-operators with a stake in your project's success
+- **Long-term Partnership** - We build relationships, not just websites
+
+## 🚀 Current Initiatives
+
+We're actively working on:
+
+- Creating software that simplifies collective ownership and democratic governance
+- Building accessible web experiences that include all users
+- Developing custom e-commerce solutions
+- Collaborating with other cooperatives and small businesses
+
+## 🔍 Open to New Projects
+
+If you're in need of a project, even if you're unsure of the scope, reach out! We'll help you figure it out. 
+
+## 📱 Connect With Us
+
+- 🌐 **Website**: [onclickcoop.dev](https://onclickcoop.dev)
 - 🐦 **Bluesky**: [@onclickcoop.bsky.social](https://bsky.app/profile/onclickcoop.bsky.social)
-- 💻 **GitHub**: [github.com/onclick-coop](https://github.com/onclick-coop)
-
-## 🔍 Open Source
-
-We believe in open source and transparency. Check out our repositories to see our work, contributions, and development practices.
+- 📧 **Email**: [hello@onclickcoop.dev](mailto:hello@onclickcoop.dev)
 
 ---
 
-&copy; Onclick Cooperative 2025 | Building worker power through code.
+&copy; Onclick Cooperative 2025 | When we don't have to pay shareholders, we all win.
