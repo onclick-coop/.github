@@ -38,6 +38,7 @@ We're not just employees -- we're owners committed to building something meaning
 - **Dustin Dowell** - Full Stack Developer, Designer & Co-Founder
 - **G. Luke Mendelman-Haenn** - Full Stack Developer & Co-Founder
 - **Diego Hernandez** - Full Stack Developer, Accessibility Expert & Co-Founder
+- **Alan Rivera** - Full Stack Developer, Ecommerce Expert & Co-Owner
 
 ## 💭 Why Choose a Cooperative?
 
